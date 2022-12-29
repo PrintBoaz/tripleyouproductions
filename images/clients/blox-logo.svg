@@ -1,0 +1,24 @@
+<svg width="192px" height="48px" viewBox="0 0 192 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>BLOG logo</title>
+    <g id="Design-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="block/desktop/Header-alt-minimal" transform="translate(0.000000, -21.000000)">
+            <g id="Header">
+                <rect id="nav-background" fill="#FFFFFF" x="0" y="0" width="1440" height="90"></rect>
+                <g id="blox-logo" transform="translate(0.000000, 21.000000)">
+                    <g>
+                        <rect id="Rectangle" fill="#FFEA13" fill-rule="nonzero" transform="translate(72.000000, 24.000000) scale(-1, 1) translate(-72.000000, -24.000000) " x="48" y="0" width="48" height="48"></rect>
+                        <polygon id="Path" fill="#6DC6E0" fill-rule="nonzero" points="84 36 61 36 61 13"></polygon>
+                        <rect id="Rectangle" fill="#6DC6E0" fill-rule="nonzero" transform="translate(24.000000, 24.000000) scale(-1, 1) translate(-24.000000, -24.000000) " x="0" y="0" width="48" height="48"></rect>
+                        <path d="M30.2156578,24.4992242 C33.4102756,24.4992242 36,21.9256511 36,18.7492241 C36,15.5735731 33.4102756,13 30.2156578,13 L13,13 L13,36 L30.2156578,36 C33.4102756,36 36,33.4256511 36,30.2500001 C36,27.0735731 33.4102756,24.4992242 30.2156578,24.4992242" id="Path" fill="#FFEA13" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#DD5259" fill-rule="nonzero" transform="translate(120.000000, 24.000000) scale(-1, 1) translate(-120.000000, -24.000000) " x="96" y="0" width="48" height="48"></rect>
+                        <path d="M120.499614,12 C126.850435,12 132,17.1481929 132,23.5 C132,29.8510346 126.850435,35 120.499614,35 C114.149565,35 109,29.8510346 109,23.5 C109,17.1481929 114.149565,12 120.499614,12" id="Path" fill="#FFEA13" fill-rule="nonzero" transform="translate(120.500000, 23.500000) scale(-1, 1) rotate(-90.000000) translate(-120.500000, -23.500000) "></path>
+                        <rect id="Rectangle" fill="#6DC6E0" fill-rule="nonzero" transform="translate(168.000000, 24.000000) scale(-1, 1) translate(-168.000000, -24.000000) " x="144" y="0" width="48" height="48"></rect>
+                        <polygon id="Path" fill="#DD5259" fill-rule="nonzero" points="153 10 153 38 168 24"></polygon>
+                        <polygon id="Path" fill="#DD5259" fill-rule="nonzero" points="167 24 182 38 182 10"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
